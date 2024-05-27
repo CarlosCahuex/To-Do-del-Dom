@@ -6,4 +6,4 @@ Este to-do está hecho para que, cuando hagas clic, puedas agregar una tarea, as
 
 Si tienes alguna duda, no dudes en comentarlo. 😊
 
-![alt text](./img/image.png)
+![alt text](./assets/img/image.png)
