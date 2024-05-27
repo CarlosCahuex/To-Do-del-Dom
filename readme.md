@@ -1,7 +1,9 @@
 ### To-Do List con Dom
 
-Eh creado un to-do con el Dom, hemos aprendido a como manejarlo y usarlo, fue un tanto complicado pero de ahi todo estuvo bien.
+"**He creado un to-do con el DOM.** Hemos aprendido **cómo manejarlo y usarlo**; fue un tanto complicado, pero de ahí todo estuvo bien.
 
-Este to-do esta hecho para cuando hagas click puedas agragar una tarea, asi como con un check marcarla y tambien eliminar la tarea. Este esta creado con Html, CSS y JS.
+Este to-do está hecho para que, cuando hagas clic, puedas agregar una tarea, así como marcarla con un check y también eliminarla. Está creado con **HTML, CSS y JS**."
+
+Si tienes alguna duda, no dudes en comentarlo. 😊
 
 ![alt text](./img/image.png)

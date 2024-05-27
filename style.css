@@ -1,6 +1,6 @@
 body{
     width: 100%;
-    background-image: url(./img/1697214221714.jpeg);
+    background-image: url(./assets/img/1697214221714.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-size: 100%;
@@ -10,7 +10,7 @@ html{
     height: 100%;
 }
 .fondo{
-    background-image: url(./img/microsoft-to-do-tips-tricks-hack-fi_4d470f76dc99e18ad75087b1b8410ea9.webp);
+    background-image: url(./assets/img/microsoft-to-do-tips-tricks-hack-fi_4d470f76dc99e18ad75087b1b8410ea9.webp);
     background-repeat: no-repeat;
     background-size: 100%;
     background-size: cover;
